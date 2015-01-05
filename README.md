@@ -23,4 +23,4 @@ The package will be broken into modules, each with a distinct set of functionali
 - *Presentation*:
  - Publication quality velocity channel maps,
  - Colored velocity/moment maps,
--- Position-velocity maps, and more.
+ - Position-velocity maps, and more.
